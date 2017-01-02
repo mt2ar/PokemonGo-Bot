@@ -1,4 +1,3 @@
 [submodule "web"]
 	path = web
-	url = https://github.com/pogarek/PokemonGo-Web
-	branch = candiesfixv2
+	url = https://github.com/PokemonGoF/PokemonGo-Web
